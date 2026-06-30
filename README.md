@@ -45,6 +45,6 @@ Plan → Break Down → Schedule → Adapt → Emergency Response
 <img width="1883" height="838" alt="sprintplanner" src="https://github.com/user-attachments/assets/665d5190-65ba-4bef-be8f-c070ad13adff" />
 <img width="1892" height="846" alt="homepage" src="https://github.com/user-attachments/assets/be366977-c28a-411c-879c-c91470021ab2" />
 #Deployment
-
+https://deadlinepilot-ai-6eaa0.web.app/
 #Author
 Built for Vibe2Ship Hackathon by Kanishka
